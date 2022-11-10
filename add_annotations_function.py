@@ -3,9 +3,9 @@
 # %%
 
 def add_annotations(eeg_num):
-    """this function was designed to load hdf5 files from the stevenson EEG datatset
-    and add annotations
-    """
+      """this function was designed to load hdf5 files from the stevenson EEG datatset
+      and add annotations
+      """
      
       # %%
       # run through all [1...79] inclusive eegs
