@@ -270,3 +270,9 @@ def add_annotations(eeg_num):
     hf.close()
 
     # %%
+
+def test_dummy():
+    pass 
+
+def test_add_annotations_function():
+  add_anotations_function.add_annotations(eeg_num)
