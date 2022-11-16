@@ -37,9 +37,9 @@ def common_avg_reference(eeg):
     #EEG76_1sec.insert(index, crthiswindow)
 
     #EEG76_marks.insert(index,ii)
-    EEG77_1sec.insert(index, crthiswindow)
+    EEG_1sec.insert(index, crthiswindow)
 
-    EEG77_marks.insert(index,ii)
+    EEG_marks.insert(index,ii)
     index=index+1
     ii += 5
 
